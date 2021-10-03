@@ -1,4 +1,5 @@
-### Hi 👋, I'm Jesus Reyes
+<h1 align="center"> Hi 👋, I'm Jesus Reyes</h1>
+<h3 align="center">I am a computer and systems engineering student, science and technology are two of my favorite passions. I am very interested in the world of web development, from the backend to the frontend.</h3>
 
 <!--
 **reyesjd/reyesjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
