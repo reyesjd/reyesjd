@@ -32,8 +32,5 @@ I am a **Full Stack Developer** with a background in **Systems Engineering**, sp
 - **Continuous Learner:** Problem-oriented mindset with a commitment to continuous learning and adaptation to new technologies. 📚
 
 ## 📫 Get in Touch
-- [LinkedIn](www.linkedin.com/in/reyesjd) 🌐
+- [LinkedIn](https://www.linkedin.com/in/reyesjd) 🌐
 - [Email](mailto:jdreyesmed2@gmail.com) ✉️
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 🛡️
