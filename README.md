@@ -1,19 +1,39 @@
-<h1 align="center">Hi 👋, I'm Jesus Reyes</h1>
-<h3 align="center">A computer and systems engineering student, enthusiastic about the world of web development.</h3>
-<p align="center">I am a computer and systems engineering student, science and technology are my favorite passions. I am very interested in the world of web development, from the backend to the frontend.</p>
+# 👋 Hi, I'm Jesus Reyes - Full Stack Developer
 
-- 🌱 I am currently finishing learning about frontend web application development with React and backend web application development with Node.js.
-- 💬 Ask me about anything, I will be happy to answer and help 😉.
-- 📫 How to reach me: **jdreyesmed2@gmail.com**
+## 🌟 About Me
+I am a **Full Stack Developer** with a background in **Systems Engineering**, specializing in developing scalable digital solutions. Proficient in modern technologies, including:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reyesjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyesjd" height="30" width="40" /></a>
-</p>
+- **Frontend:** React, Next.js
+- **Backend:** NestJS, PHP, Flask, Django
+- **Databases:** PostgreSQL, MySQL, DynamoDB
+- **Cloud:** AWS (Amplify, Lambda, API Gateway, RDS)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_black"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyesjd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reyesjd" /></p>
+## 💻 Technical Skills
+- **Languages:** TypeScript, JavaScript, PHP, Python
+- **Frameworks:** Next.js, NestJS, Slim Framework, Django, Flask
+- **Databases:** PostgreSQL, MySQL, DynamoDB
+- **Tools:** Docker, Git, Postman, Axios, Fetch API
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyesjd&show_icons=true&theme=tokyonight&locale=en" alt="reyesjd" /></p>
+## 🏆 Professional Experience
+
+### 🚀 Backend Lead
+- **API Development:** Led the development of a REST API for microinsurance using AWS services, enhancing API efficiency and contributing to increased sales. 💰
+- **Purchase Optimization:** Developed an application for optimizing purchase requests with PHP and SQL Server, improving processing time. ⏱️
+- **Loyalty Application:** Managed a team to create a customer and employee loyalty application, enhancing user engagement through a Next.js and TypeScript frontend and a Serverless Framework backend. 🌟
+- **API Integration:** Assisted with API integration and state management using React Hooks, improving the development process and user experience. 🔗
+
+### 📊 Accounting Automation Project Lead
+- **Accounting Software:** Led the development of accounting automation software using Node.js, NestJS, PostgreSQL, and AWS, significantly reducing manual report generation time. 📈
+- **User Interfaces:** Developed user interfaces with Next.js and TypeScript to improve data accessibility and decision-making speed. 📊
+- **Scrum Methodology:** Implemented a tailored Scrum methodology to adapt to dynamic business parameters, enhancing the development process. ⚙️
+
+## 🤝 Soft Skills
+- **Team Player:** Strong communication and team management skills, facilitating collaboration among stakeholders. 💬
+- **Continuous Learner:** Problem-oriented mindset with a commitment to continuous learning and adaptation to new technologies. 📚
+
+## 📫 Get in Touch
+- [LinkedIn](www.linkedin.com/in/reyesjd) 🌐
+- [Email](mailto:jdreyesmed2@gmail.com) ✉️
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 🛡️
