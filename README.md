@@ -5,7 +5,7 @@ I am a **Software Developer** with a background in **Systems Engineering**, spec
 
 - **Frontend:** PHP, HTML, CSS, JavaScript, React.js, Next.js
 - **Backend:** Slim, Symfony, Django, Nest.js
-- **Databases:** PostgreSQL, MySQL, DynamoDB
+- **Databases:** PostgreSQL, SQLServer, MySQL, DynamoDB, MongoDb
 - **Cloud:** AWS (Amplify, Lambda, API Gateway, RDS)
 
 ## 💻 Technical Skills
