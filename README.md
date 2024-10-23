@@ -3,8 +3,8 @@
 ## 🌟 About Me
 I am a **Software Developer** with a background in **Systems Engineering**, specializing in developing scalable digital solutions. Proficient in modern technologies, including:
 
-- **Frontend:** React, Next.js
-- **Backend:** NestJS, PHP, Flask, Django
+- **Frontend:** PHP, HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** PHP, Python, TypeScript
 - **Databases:** PostgreSQL, MySQL, DynamoDB
 - **Cloud:** AWS (Amplify, Lambda, API Gateway, RDS)
 
