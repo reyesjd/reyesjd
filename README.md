@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Jesus Reyes - Full Stack Developer
+# 👋 Hi, I'm Jesus Reyes - Software Developer
 
 ## 🌟 About Me
-I am a **Full Stack Developer** with a background in **Systems Engineering**, specializing in developing scalable digital solutions. Proficient in modern technologies, including:
+I am a **Software Developer** with a background in **Systems Engineering**, specializing in developing scalable digital solutions. Proficient in modern technologies, including:
 
 - **Frontend:** React, Next.js
 - **Backend:** NestJS, PHP, Flask, Django
